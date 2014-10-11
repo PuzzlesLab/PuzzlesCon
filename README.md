@@ -3,7 +3,7 @@ PuzzlesCon
 
 This repo is to keep records and documentation for PuzzlesCon programming contest series.
 
-Official Ranklist can be obtained from [here](../blob/master/Rank.md)
+Official Ranklist can be obtained from [here](../master/Rank.md)
 
 ##Past Contests
 
