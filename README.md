@@ -14,6 +14,7 @@ Official Ranklist can be obtained from [here](../master/Rank.md)
 
 + PuzzlesCon Silver League I [2014-11-08] [Add to your calendar](https://plus.google.com/events/cbqag0cibksm1pq63vmluc4brk0)
 + PuzzlesCon Bronze League III [2014-11-08] [Add to your calendar](https://plus.google.com/events/c19jgh6ahmoqvihe1nokak9tgug)
++ PuzzlesCon Bronze League IV [2014-11-22] [Add to your calendar](https://plus.google.com/events/c6g4vo5j7lofjsam9v46v9hqomo)
 
 ##Origin of Past Contests
 
