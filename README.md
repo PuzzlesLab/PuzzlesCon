@@ -7,8 +7,8 @@ Official Ranklist can be obtained from [here](../master/Rank.md)
 
 ##Past Contests
 
-+ PuzzlesCon Bronze League I [2014-10-11]
-+ PuzzlesCon Bronze League II [2014-10-25]
++ PuzzlesCon Bronze League I [2014-10-11] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=58728#overview)
++ PuzzlesCon Bronze League II [2014-10-25] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=59034#overview)
 
 ##Upcoming Contests
 
