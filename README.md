@@ -1,4 +1,4 @@
-﻿PuzzlesCon
+PuzzlesCon
 ==========
 
 This repo is to keep records and documentation for PuzzlesCon programming contest series.
@@ -13,24 +13,24 @@ Official Ranklist can be obtained from [here](../master/Rank.md)
 + PuzzlesCon Silver League I [2014-11-15] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=59153#overview) [Password: 1qazXSW@]
 + PuzzlesCon Bronze League III [2014-11-15] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=60190#overview)
 + PuzzlesCon Bronze League IV [2016-04-13] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=112667#overview) [Password : Puzzlers]
++ PuzzlesCon Bronze League IV [2016-04-30] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=114744#overview) [Password : Puzzlers]
 
 ##Upcoming Contests
 
-+ PuzzlesCon Bronze League V [2016-04-30]
 + PuzzlesCon Bronze League VI [2016-05-14]
 + PuzzlesCon Silver League V [2016-02-28]
 + PuzzlesCon Silver League II [2016-02-28]
 
-##Origin of Past Contests
+##Origin of Past Contests+
 
 ### UVa
 
 #### Level 1
-> 113 272 401 458 488 673 10079 10106 10327 10420 10469 10812
+> 113 272 401 458 488 673 10041 10079 10106 10327 10420 10469 10696 10812 11799
 
 #### Level 2
 
-> 119 334 10006 10062 11150
+> 119 334 10006 10062 10310 11150
 
 #### Level 3
 
