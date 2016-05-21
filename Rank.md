@@ -10,14 +10,15 @@ The RankList is maintained by Puzzles. The scores are calculated based on Puzzle
 + Last update for PuzzlesCon Silver League I [2014-11-19]
 + Last update for PuzzlesCon Bronze League IV [2016-04-13]
 + Last update for PuzzlesCon Bronze League V [2016-04-30]
++ Last update for PuzzlesCon Bronze League V [2016-05-21]
 
 ## Rank
 
 |ID         |Master Score|Coder Score|Apprentice Score|
 |-----------|------------|-----------|----------------|
 |howsiwei   |0           |9          |41              |
-|kahzheng   |0           |0          |96              |
-|kingkingyyk|0           |0          |96              |
+|kahzheng   |0           |0          |104             |
+|kingkingyyk|0           |0          |108             |
 |duguyue100 |0           |0          |70              |
 |khean      |0           |0          |40              |
 |hitgame001 |0           |0          |24              |
@@ -53,13 +54,13 @@ Last update: -
 |howsiwei   |2            |1            |
 |ismurroozi |1            |0            |
 |jenwai	    |1            |0            |
-|kahzheng   |3            |0            |
+|kahzheng   |4            |0            |
 |kamwoh     |2            |0            |
 |Kew        |2            |0            |
 |kgvon      |1            |0            |
 |khean      |1            |0            |
 |kheng      |1            |0            |
-|kingkingyyk|5            |0            |
+|kingkingyyk|6            |0            |
 |leonard30  |2            |0            |
 |maziyark1  |1            |0            |
 |oka96	    |2            |0            |
