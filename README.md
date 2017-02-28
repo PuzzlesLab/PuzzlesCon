@@ -18,9 +18,10 @@ Official Ranklist can be obtained from [here](../master/Rank.md)
 + PuzzlesCon Bronze League VII [2016-07-16] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=122162#overview) [Password : Puzzlers]
 + PuzzlesCon Bronze League VIII [2016-07-30] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/127595#overview)
 + PuzzlesCon Bronze League IX [2016-08-27] [Check it out here] (http://acm.hust.edu.cn/vjudge/contest/130025#overview)
++ PuzzlesCon Bronze League X [2017-03-04] [Link to be up soon](bronzeLeagueX)
 
 ##Upcoming Contests
-+ PuzzlesCon Bronze League X [2016-09-10]
++ PuzzlesCon Bronze League X [2017-03-04]
 
 ##Origin of Past Contests+
 
