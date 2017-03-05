@@ -14,6 +14,7 @@ The RankList is maintained by Puzzles. The scores are calculated based on Puzzle
 + Last update for PuzzlesCon Bronze League VII [2016-07-16]
 + Last update for PuzzlesCon Bronze League VIII [2016-08-13]
 + Last update for PuzzlesCon Bronze League IX [2016-08-27]
++ Last update for PuzzlesCon Bronze League X [2017-03-04]
 
 ## Rank
 
@@ -53,25 +54,30 @@ Last update: -
 |-----------|-------------|-------------|
 |anocriny   |1            |0            |   
 |duguyue100 |2            |0            |
+|faizthewise|1            |0            |
 |goh        |1            |0            |
 |gwjeugene  |1            |0            |
 |hitgame001 |2            |0            |
 |howsiwei   |2            |1            |
 |ismurroozi |1            |0            |
 |jenwai	    |2            |0            |
+|jun13blu   |1            |0            |
 |kahzheng   |4            |0            |
-|kamwoh     |3            |0            |
+|kamwoh     |4            |0            |
 |Kew        |3            |0            |
 |kgvon      |1            |0            |
 |khean      |1            |0            |
 |kheng      |1            |0            |
-|khooi8913  |2            |0            |
-|kingkingyyk|9            |0            |
+|khooi8913  |3            |0            |
+|kingkingyyk|10            |0            |
+|lihantan   |1            |0            |
 |leonard30  |2            |0            |
 |maziyark1  |1            |0            |
+|noobumkia  |1            |0            |
 |natijah    |1            |0            |
 |oka96	    |4            |0            |
 |rayson1223 |2            |0            |
+|waikheng   |1            |0            |
 |zhenjie911 |1            |0            |
 |zktaichou  |1            |0            |
 
