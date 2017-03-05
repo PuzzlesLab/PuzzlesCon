@@ -20,22 +20,27 @@ The RankList is maintained by Puzzles. The scores are calculated based on Puzzle
 
 |ID         |Master Score|Coder Score|Apprentice Score|
 |-----------|------------|-----------|----------------|
-|howsiwei   |0           |9          |41              |
-|kingkingyyk|0           |0          |148             |
+|kingkingyyk|0           |0          |176             |
 |kahzheng   |0           |0          |104             |
 |duguyue100 |0           |0          |70              |
+|khooi8913  |0           |0          |52              |
+|howsiwei   |0           |9          |41              |
 |khean      |0           |0          |40              |
 |oka96	    |0			 |0	     	 |33		      |
+|kamwoh	    |0           |0          |30              |
 |hitgame001 |0           |0          |24              |
+|noobumkia  |0            |0          |24             |
 |kheng	    |0		     |0	     	 |21		      |
-|khooi8913  |0           |0          |20              |
+|jun13blu   |0          |0            |16             |
 |gwjeugene  |0		 	 |0		     |10	  		  |
-|kamwoh	    |0           |0          |10              |
 |natijah    |0           |0          |9               |
 |leonard30  |0           |0          |8               |
 |rayson1223 |0           |0          |8               |
-|jenwai	    |0           |0          |4               |
+|lihantan   |0           |0          |6               |
 |Kew        |0           |0          |6               |
+|jenwai	    |0           |0          |4               |
+|faizthewise |0          |0          |2               |
+|waikheng   |0           |0           |1              |
 |kgvon      |0           |0          |1               |
 |goh        |0           |0          |0               |
 
