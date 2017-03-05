@@ -18,17 +18,17 @@ Official Ranklist can be obtained from [here](../master/Rank.md)
 + PuzzlesCon Bronze League VII [2016-07-16] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=122162#overview) [Password : Puzzlers]
 + PuzzlesCon Bronze League VIII [2016-07-30] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/127595#overview)
 + PuzzlesCon Bronze League IX [2016-08-27] [Check it out here] (http://acm.hust.edu.cn/vjudge/contest/130025#overview)
-+ PuzzlesCon Bronze League X [2017-03-04] [Link to be up soon](bronzeLeagueX)
++ PuzzlesCon Bronze League X [2017-03-04] [Check it out here](https://vjudge.net/contest/152278#overview)
 
 ##Upcoming Contests
-+ PuzzlesCon Bronze League X [2017-03-04]
++ PuzzlesCon Bronze League XI [2017-03-11]
 
 ##Origin of Past Contests+
 
 ### UVa
 
 #### Level 1
-> 100 101 102 113 272 299 401 458 483 488 673 10035 10041 10042 10079 10106 10327 10420 10469 10696 10783 10812 11547 11764 11799
+> 100 101 102 113 272 299 382 401 458 483 488 673 10035 10041 10042 10079 10106 10127 10327 10420 10469 10696 10783 10812 11547 11764 11799 11947
 
 #### Level 2
 
