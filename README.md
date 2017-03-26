@@ -24,7 +24,7 @@ Official Ranklist can be obtained from [here](../master/Rank.md)
 + PuzzlesCon Bronze League XIII [2017-03-26] [Check it out here](https://vjudge.net/contest/154988)
 
 ##Upcoming Contests
-+ PuzzlesCon Bronze Leage XIV [2017-04-01]
++ PuzzlesCon Bronze Leage XIV [2017-04-01] [Check it out here](https://vjudge.net/contest/155946)
 
 ##Origin of Past Contests+
 
