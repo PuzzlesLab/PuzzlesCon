@@ -5,7 +5,7 @@ This repo is to keep records and documentation for PuzzlesCon programming contes
 
 Official Ranklist can be obtained from [here](../master/Rank.md)
 
-##Past Contests
+## Past Contests
 
 + PuzzlesCon Bronze League I [2014-10-11] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=58728#overview)
 + PuzzlesCon Bronze League II [2014-10-25] [Check it out here](http://acm.hust.edu.cn/vjudge/contest/view.action?cid=59034#overview)
@@ -22,11 +22,12 @@ Official Ranklist can be obtained from [here](../master/Rank.md)
 + PuzzlesCon Bronze League XI [2017-03-11] [Check it out here](https://vjudge.net/contest/152433)
 + PuzzlesCon Bronze League XII [2017-03-19] [Check it out here](https://vjudge.net/contest/154692)
 + PuzzlesCon Bronze League XIII [2017-03-26] [Check it out here](https://vjudge.net/contest/154988)
-
-##Upcoming Contests
 + PuzzlesCon Bronze Leage XIV [2017-04-01] [Check it out here](https://vjudge.net/contest/155946)
 
-##Origin of Past Contests+
+## Upcoming Contests
+__Discontinued__
+
+## Origin of Past Contests+
 
 ### UVa
 
@@ -57,7 +58,7 @@ Official Ranklist can be obtained from [here](../master/Rank.md)
 
 > 12388
 
-##Contacts
+## Contacts
 
 Amy Theia Knuth  
 _Puzzles_  
